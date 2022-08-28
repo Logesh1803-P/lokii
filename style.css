@@ -54,7 +54,7 @@ hr{
     height: 100px;
     position:absolute;
     left:19rem;
-    bottom:10rem;
+    top:25rem;
 }
 .king{
     display: inline-block;
