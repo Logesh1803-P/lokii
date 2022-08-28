@@ -1,0 +1,112 @@
+body{
+    margin:0%;
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+}
+h1{
+    padding-top:200px ;
+    margin-top:0%;
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 5rem;
+    color: #06283D;
+    
+}
+h2{
+    font-family: 'Rubik Dirt', cursive;
+    font-size: 2.5rem;
+    color: #06283D;
+
+
+}
+h3{
+    margin-top: 0%;
+    font-size: 2rem;
+    padding-top:20px ;
+    color:#06283D;
+}
+p{
+    color: #42855B;
+    margin-bottom: 0%;
+    padding-bottom: 20px;
+    font-size: 1rem;
+    line-height: 2;
+}
+hr{
+    border-style: dotted;
+    border-width: 5px 0px 0px 0px;
+    width: 5%;
+    margin-bottom:0%;
+}
+.loki1{
+    width: 50%;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    right:19rem;
+    top:7rem;
+    
+}
+.loki2{
+    width: 50%;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left:19rem;
+    bottom:10rem;
+}
+.king{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    padding-top:5%;
+}
+.top-container{
+    background-color:#7FB77E ;
+    
+}
+.pro{
+    text-decoration: underline;
+}
+.middle-container{
+    background-color: #CFE8A9;
+    padding-bottom: 50px;
+    
+    
+}
+.bottom-container{
+    background-color: #90C8AC;
+    padding: 100px 0px 100px 0px;
+    
+}
+.button{
+    display: inline-block;
+    
+}
+.profile{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    
+
+}
+.power{
+    width:50%;
+    margin: auto;
+    text-align: left;
+    
+}
+.profileimg{
+    width: 100%;   
+}
+.powerimg{
+    width: 100%;
+}
+a{
+    padding: 10px 20px;
+    color: #0096FF;
+}
+a:hover{
+    color: beige;
+}
